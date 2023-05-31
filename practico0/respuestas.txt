@@ -1,0 +1,16 @@
+1)
+  a) Si el minuendo es 10 y el sustraendo 2 el programa devuelve el valor 8.
+  b) Si los números son 2*17*6 el valor que devuelve el programa es 204.
+
+2)
+  a) El área de un rectángulo de base 5cm y altura 3cm es de 15cm.
+  b) El área de un rectángulo de base 12.5cm y altura 5.3cm es de 66.25cm.
+
+3)
+  a) 50F son 10C.
+  b) 75F son 23.9C.
+
+4)
+  a) El promedio entre 5, 7 y 9 es 7
+  b) El promedio entre -2 , -3, -8 es -4.3
+  c) El promedio entre -1.2, 5.3, -3.3 es 0.26
